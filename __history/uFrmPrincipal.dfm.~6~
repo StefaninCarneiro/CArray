@@ -86,7 +86,6 @@ object Form3: TForm3
     Lines.Strings = (
       'L')
     ParentFont = False
-    ScrollBars = ssVertical
     TabOrder = 5
   end
   object Panel1: TPanel
